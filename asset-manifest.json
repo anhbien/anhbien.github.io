@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/anhnbien.com/static/css/main.3a302845.chunk.css",
+    "main.js": "/anhnbien.com/static/js/main.b6310c1e.chunk.js",
+    "main.js.map": "/anhnbien.com/static/js/main.b6310c1e.chunk.js.map",
+    "runtime-main.js": "/anhnbien.com/static/js/runtime-main.7b61b78f.js",
+    "runtime-main.js.map": "/anhnbien.com/static/js/runtime-main.7b61b78f.js.map",
+    "static/js/2.44ae25d9.chunk.js": "/anhnbien.com/static/js/2.44ae25d9.chunk.js",
+    "static/js/2.44ae25d9.chunk.js.map": "/anhnbien.com/static/js/2.44ae25d9.chunk.js.map",
+    "index.html": "/anhnbien.com/index.html",
+    "precache-manifest.9943911fa04b1e93867bb96a18d342be.js": "/anhnbien.com/precache-manifest.9943911fa04b1e93867bb96a18d342be.js",
+    "service-worker.js": "/anhnbien.com/service-worker.js",
+    "static/css/main.3a302845.chunk.css.map": "/anhnbien.com/static/css/main.3a302845.chunk.css.map",
+    "static/media/designer.svg": "/anhnbien.com/static/media/designer.8976bcb5.svg",
+    "static/media/face.mp4": "/anhnbien.com/static/media/face.9c273e0e.mp4",
+    "static/media/frontend.svg": "/anhnbien.com/static/media/frontend.2ae4fb1a.svg",
+    "static/media/hero.svg": "/anhnbien.com/static/media/hero.1a1b7bdb.svg",
+    "static/media/logo.svg": "/anhnbien.com/static/media/logo.98f4b769.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b61b78f.js",
+    "static/js/2.44ae25d9.chunk.js",
+    "static/css/main.3a302845.chunk.css",
+    "static/js/main.b6310c1e.chunk.js"
+  ]
+}

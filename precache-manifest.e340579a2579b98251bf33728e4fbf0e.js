@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a5c3d099061c7c39afed20f6c9953f0",
+    "revision": "7980dc1c05bf39c8a4541572ef665ac7",
     "url": "/anhnbien.com/index.html"
   },
   {
-    "revision": "ec9b1d038502abbba6df",
+    "revision": "e56ad4f00b8072d67d53",
     "url": "/anhnbien.com/static/css/main.3a302845.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anhnbien.com/static/js/2.44ae25d9.chunk.js"
   },
   {
-    "revision": "ec9b1d038502abbba6df",
-    "url": "/anhnbien.com/static/js/main.b6310c1e.chunk.js"
+    "revision": "e56ad4f00b8072d67d53",
+    "url": "/anhnbien.com/static/js/main.603b3c87.chunk.js"
   },
   {
     "revision": "6e3a5b6588c1e70945ce",

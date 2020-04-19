@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anhnbien.com/static/css/main.6861bc0b.chunk.css",
-    "main.js": "/anhnbien.com/static/js/main.047417e4.chunk.js",
-    "main.js.map": "/anhnbien.com/static/js/main.047417e4.chunk.js.map",
+    "main.js": "/anhnbien.com/static/js/main.607825e6.chunk.js",
+    "main.js.map": "/anhnbien.com/static/js/main.607825e6.chunk.js.map",
     "runtime-main.js": "/anhnbien.com/static/js/runtime-main.7b61b78f.js",
     "runtime-main.js.map": "/anhnbien.com/static/js/runtime-main.7b61b78f.js.map",
     "static/js/2.59eccfd7.chunk.js": "/anhnbien.com/static/js/2.59eccfd7.chunk.js",
     "static/js/2.59eccfd7.chunk.js.map": "/anhnbien.com/static/js/2.59eccfd7.chunk.js.map",
     "index.html": "/anhnbien.com/index.html",
-    "precache-manifest.34e505bdc4f78a176fd26c9c72279d7b.js": "/anhnbien.com/precache-manifest.34e505bdc4f78a176fd26c9c72279d7b.js",
+    "precache-manifest.436fccc7126c32bcc72aa72c746de01d.js": "/anhnbien.com/precache-manifest.436fccc7126c32bcc72aa72c746de01d.js",
     "service-worker.js": "/anhnbien.com/service-worker.js",
     "static/css/main.6861bc0b.chunk.css.map": "/anhnbien.com/static/css/main.6861bc0b.chunk.css.map",
     "static/media/face.mp4": "/anhnbien.com/static/media/face.9c273e0e.mp4",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7b61b78f.js",
     "static/js/2.59eccfd7.chunk.js",
     "static/css/main.6861bc0b.chunk.css",
-    "static/js/main.047417e4.chunk.js"
+    "static/js/main.607825e6.chunk.js"
   ]
 }

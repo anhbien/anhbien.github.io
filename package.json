@@ -2,16 +2,16 @@
   "name": "anhbien",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anhbien.github.io/anhnbien.com",
+  "homepage": "https://github.com/anhbien/anhbien.github.io",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
-    "node-sass": "^4.13.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^4.14.1",
     "popper.js": "^1.16.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "^3.4.1",
     "ts-pnp": "^1.1.5",
     "tsutils": "^3.17.1",
     "typescript": "^3.7.2"
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }

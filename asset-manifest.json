@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/anhbien/anhnbien.com/static/css/main.6861bc0b.chunk.css",
-    "main.js": "/anhbien/anhnbien.com/static/js/main.9f47c97d.chunk.js",
-    "main.js.map": "/anhbien/anhnbien.com/static/js/main.9f47c97d.chunk.js.map",
-    "runtime-main.js": "/anhbien/anhnbien.com/static/js/runtime-main.330777d8.js",
-    "runtime-main.js.map": "/anhbien/anhnbien.com/static/js/runtime-main.330777d8.js.map",
-    "static/js/2.59eccfd7.chunk.js": "/anhbien/anhnbien.com/static/js/2.59eccfd7.chunk.js",
-    "static/js/2.59eccfd7.chunk.js.map": "/anhbien/anhnbien.com/static/js/2.59eccfd7.chunk.js.map",
-    "index.html": "/anhbien/anhnbien.com/index.html",
-    "precache-manifest.bca927a4ae42b6da4c0665ca2836bc4d.js": "/anhbien/anhnbien.com/precache-manifest.bca927a4ae42b6da4c0665ca2836bc4d.js",
-    "service-worker.js": "/anhbien/anhnbien.com/service-worker.js",
-    "static/css/main.6861bc0b.chunk.css.map": "/anhbien/anhnbien.com/static/css/main.6861bc0b.chunk.css.map",
-    "static/media/face.mp4": "/anhbien/anhnbien.com/static/media/face.9c273e0e.mp4",
-    "static/media/hero.svg": "/anhbien/anhnbien.com/static/media/hero.1a1b7bdb.svg",
-    "static/media/logo.svg": "/anhbien/anhnbien.com/static/media/logo.98f4b769.svg"
+    "main.css": "/anhbien/anhbien.github.io/static/css/main.6861bc0b.chunk.css",
+    "main.js": "/anhbien/anhbien.github.io/static/js/main.5e04fde6.chunk.js",
+    "main.js.map": "/anhbien/anhbien.github.io/static/js/main.5e04fde6.chunk.js.map",
+    "runtime-main.js": "/anhbien/anhbien.github.io/static/js/runtime-main.6742c7da.js",
+    "runtime-main.js.map": "/anhbien/anhbien.github.io/static/js/runtime-main.6742c7da.js.map",
+    "static/js/2.59eccfd7.chunk.js": "/anhbien/anhbien.github.io/static/js/2.59eccfd7.chunk.js",
+    "static/js/2.59eccfd7.chunk.js.map": "/anhbien/anhbien.github.io/static/js/2.59eccfd7.chunk.js.map",
+    "index.html": "/anhbien/anhbien.github.io/index.html",
+    "precache-manifest.04e32e45b5fa376b089bebfdf596bcf6.js": "/anhbien/anhbien.github.io/precache-manifest.04e32e45b5fa376b089bebfdf596bcf6.js",
+    "service-worker.js": "/anhbien/anhbien.github.io/service-worker.js",
+    "static/css/main.6861bc0b.chunk.css.map": "/anhbien/anhbien.github.io/static/css/main.6861bc0b.chunk.css.map",
+    "static/media/face.mp4": "/anhbien/anhbien.github.io/static/media/face.9c273e0e.mp4",
+    "static/media/hero.svg": "/anhbien/anhbien.github.io/static/media/hero.1a1b7bdb.svg",
+    "static/media/logo.svg": "/anhbien/anhbien.github.io/static/media/logo.98f4b769.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.330777d8.js",
+    "static/js/runtime-main.6742c7da.js",
     "static/js/2.59eccfd7.chunk.js",
     "static/css/main.6861bc0b.chunk.css",
-    "static/js/main.9f47c97d.chunk.js"
+    "static/js/main.5e04fde6.chunk.js"
   ]
 }

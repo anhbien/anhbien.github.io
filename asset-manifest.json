@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/anhbien.github.io/static/css/main.6861bc0b.chunk.css",
-    "main.js": "/anhbien.github.io/static/js/main.c17c3241.chunk.js",
-    "main.js.map": "/anhbien.github.io/static/js/main.c17c3241.chunk.js.map",
-    "runtime-main.js": "/anhbien.github.io/static/js/runtime-main.39436230.js",
-    "runtime-main.js.map": "/anhbien.github.io/static/js/runtime-main.39436230.js.map",
-    "static/js/2.59eccfd7.chunk.js": "/anhbien.github.io/static/js/2.59eccfd7.chunk.js",
-    "static/js/2.59eccfd7.chunk.js.map": "/anhbien.github.io/static/js/2.59eccfd7.chunk.js.map",
-    "index.html": "/anhbien.github.io/index.html",
-    "precache-manifest.15374d976ead2a5998bc8919aad8fe1e.js": "/anhbien.github.io/precache-manifest.15374d976ead2a5998bc8919aad8fe1e.js",
-    "service-worker.js": "/anhbien.github.io/service-worker.js",
-    "static/css/main.6861bc0b.chunk.css.map": "/anhbien.github.io/static/css/main.6861bc0b.chunk.css.map",
-    "static/media/face.mp4": "/anhbien.github.io/static/media/face.9c273e0e.mp4",
-    "static/media/hero.svg": "/anhbien.github.io/static/media/hero.1a1b7bdb.svg",
-    "static/media/logo.svg": "/anhbien.github.io/static/media/logo.98f4b769.svg"
+    "main.css": "/static/css/main.6861bc0b.chunk.css",
+    "main.js": "/static/js/main.8b80556d.chunk.js",
+    "main.js.map": "/static/js/main.8b80556d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.77aca393.js",
+    "runtime-main.js.map": "/static/js/runtime-main.77aca393.js.map",
+    "static/js/2.59eccfd7.chunk.js": "/static/js/2.59eccfd7.chunk.js",
+    "static/js/2.59eccfd7.chunk.js.map": "/static/js/2.59eccfd7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c6caaf00b3cafaf177764338af47da8.js": "/precache-manifest.3c6caaf00b3cafaf177764338af47da8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6861bc0b.chunk.css.map": "/static/css/main.6861bc0b.chunk.css.map",
+    "static/media/face.mp4": "/static/media/face.9c273e0e.mp4",
+    "static/media/hero.svg": "/static/media/hero.1a1b7bdb.svg",
+    "static/media/logo.svg": "/static/media/logo.98f4b769.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39436230.js",
+    "static/js/runtime-main.77aca393.js",
     "static/js/2.59eccfd7.chunk.js",
     "static/css/main.6861bc0b.chunk.css",
-    "static/js/main.c17c3241.chunk.js"
+    "static/js/main.8b80556d.chunk.js"
   ]
 }

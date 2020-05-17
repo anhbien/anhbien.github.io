@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anhbien/anhbien.github.io/precache-manifest.04e32e45b5fa376b089bebfdf596bcf6.js"
+  "/anhbien/anhbien.github.io/precache-manifest.590a857afd5560d89e225ac604766032.js"
 );
 
 self.addEventListener('message', (event) => {
